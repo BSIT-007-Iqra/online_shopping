@@ -1,14 +1,7 @@
-# Online Shop 🛍️ for Hackathon Phase 1
-
-[![Stars](https://img.shields.io/github/stars/iemafzalhassan/online_shop)](https://github.com/iemafzalhassan/online_shop)
-![Forks](https://img.shields.io/github/forks/iemafzalhassan/online_shop)
-![GitHub last commit](https://img.shields.io/github/last-commit/iemafzalhassan/easyshop?color=red)
-[![GitHub Profile](https://img.shields.io/badge/GitHub-iemafzalhassan-blue?logo=github&style=flat)](https://github.com/iemafzalhassan)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
+# Online Shop 🛍️
 <p align="center">
 
-Welcome to the **Online Shop** project – our hackathon entry for Phase 1! This repository contains a fully functional e-commerce application built to demonstrate foundational DevOps skills in three key areas:
+Welcome to the **Online Shop** project – This repository contains a fully functional e-commerce application built to demonstrate foundational DevOps skills in three key areas:
 
 - **Git & GitHub**
 - **Linux**
@@ -28,10 +21,6 @@ In this phase, your focus is on understanding the provided developer code, revie
 - [**Result**](#result--resume)
 
 ## Getting Started
-
-- Video Demonstration
-
-  [Video Demonstration](https://www.dropbox.com/scl/fi/06xq03rkx56hiak1080bo/videoDemo.mp4?rlkey=dje3ntpcd9zc3rzz1a1canhch&st=1vsn8k90&dl=0)
 
 1. Home Page
 ![Home Page](public/homePage.png)
@@ -60,12 +49,12 @@ As part of the **Train With Shubham Hackathon Phase 1**, I was given the charge 
 ### Task
 
 - Develop the Required Infrastructre for Online Shopping Portal
-- Clonning Necessary Code and Artifacts ensurig Secrutiy and Accessbility
-- Strategize a `Deployment Plan` for brining the Applicaion to the Internet.
+- Cloning Necessary Code and Artifacts Ensuring Security and Accessbility
+- Strategize a `Deployment Plan` for bringing the Applicaion to the Internet.
 
 All this while ensuring:
 
-- Gathering Necessary Resource for building the project.
+- Gathering Necessary resources for building the project.
 - Implementing Automation Scripts.
 - Using tools like `Docker` to build real world application.
 - Grasp a good Hands-On on DevOps tools.
@@ -83,22 +72,19 @@ All this while ensuring:
 - Understood the [ROADMAP.md](ROADMAP.md) and [CONTRIBUTING.md](CONTRIBUTING.md) for build up the project.
 - Gathering the resources needed to fulfill the [`Task`](#task).
 - Build a [`Docker Installation Script`](docker_installation.sh) automation script for installing and using Docker.
-  > Running Script explained in [`COMMANDS.md File`]()!
-- Setting up this Git Repository and Adding and Commiting Files
+  > The running script is explained in [`COMMANDS.md File`]()!
+- Setting up this Git Repository and Adding and Committing Files
 - Build a Dockerfile for the Online Shopping Portal Application
-- Implemented Multi-Stage Docker Build which reduced the size of Image by `1GB` and increased deployment speed by `50%` improving efficiency and faster deployment
+- Implemented Multi-Stage Docker Build, which reduced the size of the  Image by `1GB` and increased deployment speed by `50%`, improving efficiency and faster deployment
 - Build a [`.dockerignore`](.dockerignore) file for ignoring the `Files and Directory` which are unecessary.
-- Using .dockerignore help reduce the docker image size and improving its deployment speed.
+- Using .dockerignore helps reduce the docker image size and improves its deployment speed.
 - Built a `Docker Compose` file
 - - Lead to faster implementation of Application
 - - Performing Regular `Health Checks`.
 - - Custom Network Configuration
-- Implemented `Docker Scout` for Checking `Vulnerabilties` of Application. [`Docker Scout Report`](image_report.md)
-- Used `Amazon EC2` to bring the Application to Internet
+- Implemented `Docker Scout` to check the vulnerabilities of the application. [`Docker Scout Report`](image_report.md)
+- Used `Amazon EC2` to bring the Application to the Internet
 
-> Shown in Video Demonstration
-
----
 
 ### Result / Resume
 
